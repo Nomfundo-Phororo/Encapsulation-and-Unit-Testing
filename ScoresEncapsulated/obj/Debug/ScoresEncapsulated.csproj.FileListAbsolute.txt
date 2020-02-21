@@ -1,0 +1,6 @@
+C:\Users\USER\source\repos\ScoresEncapsulated\ScoresEncapsulated\bin\Debug\ScoresEncapsulated.exe.config
+C:\Users\USER\source\repos\ScoresEncapsulated\ScoresEncapsulated\bin\Debug\ScoresEncapsulated.exe
+C:\Users\USER\source\repos\ScoresEncapsulated\ScoresEncapsulated\bin\Debug\ScoresEncapsulated.pdb
+C:\Users\USER\source\repos\ScoresEncapsulated\ScoresEncapsulated\obj\Debug\ScoresEncapsulated.csprojAssemblyReference.cache
+C:\Users\USER\source\repos\ScoresEncapsulated\ScoresEncapsulated\obj\Debug\ScoresEncapsulated.exe
+C:\Users\USER\source\repos\ScoresEncapsulated\ScoresEncapsulated\obj\Debug\ScoresEncapsulated.pdb
